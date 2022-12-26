@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, SASS, CSS, JavaScript**
 
 - 📫 How to reach me **yousssef.ben.chrifa@outlook.com**
 
