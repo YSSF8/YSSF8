@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on [Process Manager](https://github.com/YSSF8/Process-Manager)
 
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **HTML, SASS, CSS, JavaScript**
+- 💬 Ask me about **HTML, SASS/SCSS, CSS, JavaScript**
 
 - 📫 How to reach me **yousssef.ben.chrifa@outlook.com**
 
