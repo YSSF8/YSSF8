@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yssf8&label=Profile%20views&color=0e75b6&style=flat" alt="yssf8" /> </p>
 
-- 🔭 I’m currently working on [Process Manager](https://github.com/YSSF8/Process-Manager)
+- 🔭 I’m currently working on [ChatGPT PRepo](https://github.com/YSSF8/ChatGPT-PRepo)
 
 - 💬 Ask me about **HTML, SASS/SCSS, CSS, JavaScript**
 
